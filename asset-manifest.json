@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/home-work-N14-react/static/js/main.46d52738.chunk.js",
-    "main.js.map": "/home-work-N14-react/static/js/main.46d52738.chunk.js.map",
+    "main.js": "/home-work-N14-react/static/js/main.540a5120.chunk.js",
+    "main.js.map": "/home-work-N14-react/static/js/main.540a5120.chunk.js.map",
     "runtime~main.js": "/home-work-N14-react/static/js/runtime~main.e1df170a.js",
     "runtime~main.js.map": "/home-work-N14-react/static/js/runtime~main.e1df170a.js.map",
-    "static/js/2.f107d14d.chunk.js": "/home-work-N14-react/static/js/2.f107d14d.chunk.js",
-    "static/js/2.f107d14d.chunk.js.map": "/home-work-N14-react/static/js/2.f107d14d.chunk.js.map",
+    "static/js/2.786c6e53.chunk.js": "/home-work-N14-react/static/js/2.786c6e53.chunk.js",
+    "static/js/2.786c6e53.chunk.js.map": "/home-work-N14-react/static/js/2.786c6e53.chunk.js.map",
     "index.html": "/home-work-N14-react/index.html",
-    "precache-manifest.6b50f9b5f2034b62d35dd8a5a2ed415b.js": "/home-work-N14-react/precache-manifest.6b50f9b5f2034b62d35dd8a5a2ed415b.js",
+    "precache-manifest.0e6a693dc04e5fcd2b2d19f2962c2106.js": "/home-work-N14-react/precache-manifest.0e6a693dc04e5fcd2b2d19f2962c2106.js",
     "service-worker.js": "/home-work-N14-react/service-worker.js"
   }
 }
