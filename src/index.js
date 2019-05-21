@@ -1,17 +1,18 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import MainStyles from "./index.styles";
+import MainWrap from "./index.styles";
 
-import HeaderComponent from "./components/Header";
+import Header from "./components/Header";
 import Main from "./components/Main";
 
 function App() {
   return (
-    <MainStyles.MainContainer>
-      <HeaderComponent />
+    <MainWrap.MainContainer>
+      <Header />
+      <MainWrap.Title>Characters</MainWrap.Title>
       <Main />
-    </MainStyles.MainContainer>
+    </MainWrap.MainContainer>
   );
 }
 

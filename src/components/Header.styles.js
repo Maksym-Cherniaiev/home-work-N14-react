@@ -2,21 +2,21 @@ import styled from "styled-components";
 
 export default {
   HeaderWraper: styled.div`
-    padding-top: 20px;
+    padding: 20px 0 0 0;
     font-family: 'Roboto Condensed', sans-serif;
   `,
   Container: styled.div`
-    width: 95%;
+    width: 57%;
     height: 75px;
     margin: auto;
     letter-spacing: 1px;
     display: flex;
     justify-content: center;
-    background-color: #fbfbfb
+    background-color: #fbfbfb;
     border-radius: 5px;
     border: 1px solid lightgrey;
   `,
   Title: styled.h2`
-    color: #858080
+    color: #858080;
   `
 }

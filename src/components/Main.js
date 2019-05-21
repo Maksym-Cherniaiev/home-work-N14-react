@@ -1,13 +1,17 @@
 import React from "react";
 
+import Main from "./Main.styles";
+
 import RenderChars from "./Main/CharCard/RenderCard";
 
-function Main() {
+function RenderMain() {
   return (
-    <div>
-      <RenderChars />
-    </div>
+    <>
+      <Main.Container>
+        <RenderChars />
+      </Main.Container>
+    </>
   );
 }
 
-export default Main;
+export default RenderMain;

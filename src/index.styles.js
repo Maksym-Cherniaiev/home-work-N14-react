@@ -2,9 +2,14 @@ import styled from "styled-components";
 
 export default {
   MainContainer: styled.div`
-    width: 968px;
-    height: 200px;
-    background-color: #f2f2f2;
+    width: 1280px;
+    background-color: #eeeeee;
     margin: auto;
+  `,
+  Title: styled.h4`
+    font-family: 'Helvetica Neue Thin', sans-serif;
+    font-size: 26px;
+    color: #858080;
+    text-align: center;
   `
 }
